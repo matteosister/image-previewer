@@ -3,13 +3,10 @@ package main
 import (
 	"github.com/disintegration/imaging"
 	"runtime"
-	//"os"
 	"image"
 	"image/color"
 	"fmt"
-	//"github.com/jessevdk/go-flags"
 	"flag"
-	//"os"
 	"path/filepath"
 )
 
